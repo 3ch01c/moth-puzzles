@@ -1,2 +1,2 @@
 # moth-puzzles
-Sample puzzles for Monarch of the Hill CTF
+Sample puzzles for [moth](Monarch of the Hill CTF)
