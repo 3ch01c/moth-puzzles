@@ -1,0 +1,14 @@
+Welcome to the Sandwich category!
+---------------------------------
+
+In this category you will learn how to make a tasty sandwich.
+The key ingredients in a sandwich are: bread, spread, and filling.
+When making a sandwich, you need to first put down one slice of bread,
+then apply any spreads, and finally add filling.  Popular fillings
+include cheese, sprouts, and cold cuts.  When you are done, apply
+another slice of bread on top, and optionally tie it together with
+a fancy toothpick.
+![](,sandwich.jpg)
+Now that you know the basics of sandwich-making, it's time for a
+question!  How many slices of bread are in a sandwich?
+
